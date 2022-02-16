@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin Gosset</h1>
 <h3 align="center">A passionate Software developer / Blockchain Lover / Hacker from Belgium</h3>
 
-![](https://codersrankpublic.blob.core.windows.net/userdata/5a52de92394c53fd270f4562/screenshot/p_20210731105501.jpg)
+![https://quentingosset.com/](https://quentingosset.com/header_github.jpg)
 <p align="center">
     <a href="https://twitter.com/quentingosset" target="blank">
         <img src="https://img.shields.io/badge/Twitter @quentingosset-grey?logo=twitter&style=for-the-badge"
