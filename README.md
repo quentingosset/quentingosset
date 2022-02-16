@@ -26,6 +26,7 @@
 
 - 🔭 I’m currently working on [Infrabel ](https://infrabel.be/)
 - 🌱 I’m currently learning **Cybersecurity, Blockchain**
+- 💖 I'm a lover of new technologies
 - 👨‍💻 All of my projects are available at [https://quentingosset.com/](https://quentingosset.com/)
 - 📫 How to reach me **quentingosset7500@hotmail.com**
 - 📄 Know about my experiences
