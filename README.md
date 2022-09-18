@@ -24,7 +24,7 @@
 </p>
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [Infrabel ](https://infrabel.be/)
+- 🔭 I’m currently working at [Infrabel ](https://infrabel.be/)
 - 🌱 I’m currently learning **Cybersecurity, Blockchain**
 - 💖 I'm a lover of new technologies
 - 👨‍💻 All of my projects are available at [https://quentingosset.com/](https://quentingosset.com/)
